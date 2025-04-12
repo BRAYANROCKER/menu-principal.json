@@ -2,19 +2,12 @@
   "menuItems": [
     {
       "name": "Inicio",
-      "url": "https://example.com/inicio"
+      "url": "https://rebrand.ly/BrayanRockerWeb"
     },
-    {
-      "name": "DMCA - Aviso Legal",
-      "url": "https://example.com/dmca"
-    },
+   
     {
       "name": "Blog",
-      "url": "https://example.com/blog"
-    },
-    {
-      "name": "MegaPack Cristiano",
-      "url": "https://example.com/megapack"
+      "url": "https://rebrand.ly/BrayanRockerBlog"
     }
   ]
 }
